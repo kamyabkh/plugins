@@ -1,0 +1,15 @@
+{
+    "avg":true,
+    "zoner":true,
+    "fprot":true,
+    "windows_defender":false,
+    "escan":false,
+    "mcafee":false,
+    "clamav":true,
+    "avira":false,
+    "avast":false,
+    "kaspersky":false,
+    "drweb":false,
+    "comodo":false,
+    "bitdefender":false
+}

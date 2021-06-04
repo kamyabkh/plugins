@@ -1,0 +1,88 @@
+*
+!/**/
+!*.*
+
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# iieesiles files
+.iieesile
+
+*.log
+*.orig
+*.test
+*.gz
+*.zip
+# .git/
+media/
+/excute/
+export/
+env/
+# Intellij idea
+.idea/
+# Visual Studio Code
+.vscode/
+tmp/
+temp/
+files/
+# excel files
+*.xlsx
+*.xls
+# config.json
+
+# vim text editor tempe file
+*.swp
+
+/doc
+
+#compress files
+*.tar*
+*.zip
+*.rar
+
+front/
+*.exe
+
+media/
+log/
+
+pdf/
+
+config.json
+config/config.json
+
+malice-new*
